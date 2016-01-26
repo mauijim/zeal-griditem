@@ -1,0 +1,35 @@
+{
+  "name": "zeal-griditem",
+  "version": "1.0.3",
+  "authors": [
+    "Max Leitch <mjleitch@gmail.com>"
+  ],
+  "description": "A single item displayed in grid view when used within zeal-grid.",
+  "keywords": [
+    "zeal-optics",
+    "web-component",
+    "polymer",
+    "grid",
+    "layout"
+  ],
+  "main": "zeal-griditem.html",
+  "license": "https://github.com/mauijim/zeal-griditem/LICENSE.txt",
+  "homepage": "https://github.com/mauijim/zeal-griditem/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "moduleType": []
+}
